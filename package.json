@@ -1,0 +1,36 @@
+{
+  "name": "@bowtie/prettier",
+  "version": "1.3.0",
+  "description": "Bowtie Prettier Linting Rules",
+  "main": "index.js",
+  "author": "Bowtie",
+  "license": "MIT",
+  "homepage": "https://github.com/bowtie-co/prettier#readme",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/prettier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/prettier.git"
+  },
+  "keywords": [
+    "lint",
+    "hint",
+    "rules",
+    "bowtie",
+    "eslint",
+    "syntax",
+    "pretty",
+    "quality",
+    "prettier",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=2",
+    "@typescript-eslint/parser": ">=2",
+    "eslint": ">=6",
+    "eslint-config-prettier": ">=6",
+    "eslint-plugin-prettier": ">=3",
+    "prettier": ">=2"
+  }
+}

@@ -1,0 +1,7 @@
+tmp
+.git
+node_modules
+
+!index.js
+!package.json
+!package-lock.json
